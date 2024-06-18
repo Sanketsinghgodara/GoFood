@@ -1,0 +1,22 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Environment variables
+.env
+
+# Build files
+build/
+dist/
+*.zip
+
+# Dependency directories
+jspm_packages/
+bower_components/
+
+# Production files
+*.pem
+*.key
